@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>//Acdlbs</title>
+    <link>https://acdlbs.github.io/</link>
+    <description>Recent content on //Acdlbs</description>
+    <image>
+      <url>https://acdlbs.github.io/papermod-cover.png</url>
+      <link>https://acdlbs.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 15 Nov 2021 11:19:54 -0500</lastBuildDate><atom:link href="https://acdlbs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In Which Cryogen Was Switched to Hugo</title>
+      <link>https://acdlbs.github.io/post/in-which-cryogen-was-switched-to-hugo/</link>
+      <pubDate>Mon, 15 Nov 2021 11:19:54 -0500</pubDate>
+      
+      <guid>https://acdlbs.github.io/post/in-which-cryogen-was-switched-to-hugo/</guid>
+      <description>I&amp;rsquo;ve decided to switch from using Cryogen to generate my static site to Hugo. I originally chose Cryogen as it was a static site generator that used Clojure and would allow for me to further my knowledge of the language &amp;ndash; however after using the framework I found that due to its lack of support It would be smoother for me to switch to a more popular static site generator. Hugo seemed like the obvious choice due to the many blogs I&amp;rsquo;ve seen implemented in it.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://acdlbs.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acdlbs.github.io/about/</guid>
+      <description>Hey - I&amp;rsquo;m Aiden! I&amp;rsquo;m a graduating senior at the University of Florida studying computer science. My biggest interests in the tech sphere are: GPU-accelerated computing, networks, sysadmin, functional programming and lisps.
+My time at the University of Florida At UF, I have been active as the project manager of the VR Club. Through this role I’ve learned valuable skills in regards to working in groups, reducing scope creep and C# development.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://acdlbs.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://acdlbs.github.io/projects/</guid>
+      <description>Open Source Contributions MirthSync MirthSync is a command line tool for synchronizing Mirth Connect code between servers. I Added a flag and logic to allow users to choose whether to push the config map and updated the test cases that expected the config map to be pushed. https://github.com/SagaHealthcareIT/mirthsync/pull/22
+Projects Boids Flocking Algorithm in Cuda Implemented the boids flocking algorithm in both cuda and native c++
+This website! Created a static web app using clojure, ring, compojure, and cryogen</description>
+    </item>
+    
+  </channel>
+</rss>
